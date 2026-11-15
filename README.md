@@ -25,7 +25,7 @@ I build cross-platform mobile apps with Flutter, backed by 4+ years of professio
 - **Flutter development is my focus.** I build Android and iOS apps from a single Dart codebase — authentication, real-time data, localization (Arabic RTL and English) and responsive layouts.
 - **4+ years of professional UI/UX experience** in companies across real estate, recruitment, tourism, fintech and e-learning — including *Ard App*, which won **2nd place nationwide** in Saudi Arabia's Real Estate & Land Innovation Competition.
 - **Design-to-code.** Because I design on tokens and reusable components, my Figma and Adobe XD files translate directly into clean Flutter widgets, with nothing lost in handoff.
-- Currently completing a **Bachelor's in Mobile Applications Design & Development** at University College of Applied Sciences (UCAS).
+- Currently completing a **Bachelor's in Mobile Applications Design & Development** at University College of Applied Sciences (UCAS), Faculty of Information Technology.
 
 ## What I do
 
@@ -88,7 +88,7 @@ Selected UI/UX projects I led or designed. Full case studies are on my [portfoli
 
 | Period | Company | Role |
 |---|---|---|
-| 2023 — Present | **Alnasayan Tech** · Saudi Arabia | Senior UX/UI Designer — Motqena and Amelah platforms, ERP dashboards, admin panels |
+| Aug 2023 — Present | **Alnasayan Tech** · Saudi Arabia | Senior UX/UI Designer — Motqena and Amelah platforms, ERP dashboards, admin panels, e-commerce platforms |
 | 2024 — 2025 | **Ard Digital** · Saudi Arabia | Senior UX/UI Designer, part-time — led UX/UI for Ard with GIS and development teams |
 | 2024 — 2025 | **HOST** · Saudi Arabia | Senior UX/UI Designer, part-time — tourism and hospitality booking platform and design system |
 | — | **Mishkat Noor Foundation** · Egypt | Senior UX/UI Designer — employee apps and admin dashboards for a non-profit |
