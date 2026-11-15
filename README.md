@@ -98,12 +98,11 @@ Selected UI/UX projects I led or designed. Full case studies are on my [portfoli
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SHADYALKOALAK&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=8B949E&icon_color=02569B&title_color=02569B" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADYALKOALAK&layout=compact&hide_border=true&bg_color=00000000&text_color=8B949E&title_color=02569B" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=SHADYALKOALAK&hide_border=true&background=00000000&ring=02569B&fire=02569B&currStreakLabel=02569B&stroke=30363D&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E" alt="GitHub contribution stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHADYALKOALAK&bg_color=00000000&color=8B949E&line=02569B&point=02569B&area=true&area_color=02569B&hide_border=true&hide_title=true" alt="Contribution activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/02569B/SHADYALKOALAK" alt="Contribution activity over the last year" />
 </p>
 
 ## Contact
