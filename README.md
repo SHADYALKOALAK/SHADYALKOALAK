@@ -33,7 +33,7 @@ I build cross-platform mobile apps with Flutter, backed by 4+ years of professio
 |---|---|
 | **Flutter & Dart** | Cross-platform apps, Provider state management, feature-first architecture, localization |
 | **Android (Java)** | Native Android with View Binding, Retrofit and Firebase |
-| **Backend services** | Supabase, Firebase Auth, Cloud Firestore, Storage, Cloud Messaging, REST APIs |
+| **Backend services** | Supabase (Auth, Postgres, Storage, realtime), Firebase Auth, Cloud Firestore, Firebase Storage, REST APIs |
 | **UI/UX** | User research, flows, design systems, prototyping, developer handoff |
 
 ## Tech stack
@@ -49,8 +49,8 @@ I build cross-platform mobile apps with Flutter, backed by 4+ years of professio
 A mobile app where people build a public professional profile — personal info, projects and links such as GitHub and Behance — and discover other users through search.
 
 - **My role:** developer of the Flutter app, the admin dashboard and the landing page
-- **Built with:** Flutter · Dart · Supabase · Provider · Arabic and English localization
-- **Highlights:** email auth with password reset, editable profile, projects and links management, public profiles, user search, sharing
+- **Built with:** Flutter · Dart · Supabase · Provider · Arabic and English localization · dashboard in Next.js and TypeScript
+- **Highlights:** email auth with deep-link password reset, editable profile, projects and links management, realtime data, public profiles, user search, sharing
 - **Code:** [Flutter app](https://github.com/SHADYALKOALAK/Linkaty-app) · [Admin dashboard](https://github.com/SHADYALKOALAK/Linkaty-Dachbord) · [Landing page](https://github.com/SHADYALKOALAK/Linkaty-landing-page)
 - **Live:** [Landing page](https://linkaty-landing-page.vercel.app) · [Dashboard](https://linkaty-dachbord.vercel.app)
 
@@ -59,7 +59,7 @@ A mobile app where people build a public professional profile — personal info,
 A shopping app with a customer side and a built-in admin side for managing the catalogue.
 
 - **My role:** developer
-- **Built with:** Flutter · Dart · Firebase Auth · Cloud Firestore · Firebase Storage · Cloud Messaging · Google Sign-In · Provider
+- **Built with:** Flutter · Dart · Firebase Auth · Cloud Firestore · Firebase Storage · Google Sign-In · Provider
 - **Highlights:** sign-up and login, product details, search, cart, favourites, profile; admin screens for categories, offers, best sellers and popular products
 - **Code:** [stor](https://github.com/SHADYALKOALAK/stor) · earlier version: [storeApp](https://github.com/SHADYALKOALAK/storeApp)
 
